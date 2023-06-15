@@ -1,0 +1,10 @@
+#Plugin Name : Grappel
+#Author : RedMagic
+#Version : v1.0
+
+messages:
+  prefix: '&6&lBreeze &f&lSurvival &f&l»'
+  cooldown: 'Command is on cooldown for {seconds}'
+
+#Command cooldown in seconds.
+command-cooldown: 5
